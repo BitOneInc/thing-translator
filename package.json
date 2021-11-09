@@ -32,8 +32,8 @@
     "nib": "^1.1.2",
     "parallelshell": "^3.0.1",
     "stylus": "^0.54.5",
-    "uglify-js": "^2.7.4",
-    "uglifyify": "^3.0.4",
+    "uglify-js": "^3.14.3",
+    "uglifyify": "^4.0.0",
     "unassertify": "^2.0.3",
     "xhr": "^2.3.2"
   },
