@@ -31,7 +31,7 @@
     "he": "^1.1.0",
     "nib": "^1.1.2",
     "parallelshell": "^3.0.1",
-    "stylus": "^0.54.5",
+    "stylus": "^0.64.0",
     "uglify-js": "^2.7.4",
     "uglifyify": "^3.0.4",
     "unassertify": "^2.0.3",
